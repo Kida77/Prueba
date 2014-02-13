@@ -1,0 +1,6 @@
+Para que git ignore archivos al momento de hacer un add* se tiene que creerar
+un archivo .gitignore el cual tiene que contener los archivos que se quieren
+ignorar.
+Ejemplo: Se quiere ignorar todo archivo con la terminacion .com
+entonces el archivo .gitignore tiene que contener "*.com", asi se ignoraran
+estos archivos al poner add*
